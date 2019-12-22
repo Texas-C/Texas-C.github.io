@@ -6,7 +6,7 @@ published: true
 
 # Issue decript:
 
-Insurgency is a  Source based FPS game on Steam by `New World Interactive`. Fotunately, developer made it available on Linux.
+Insurgency is a  Source based FPS game on Steam by `New World Interactive`. Fortunately, developer made it available on Linux.
 
 But can not launch Insurgency in Steam after system upgrade recently.
 
@@ -24,7 +24,7 @@ Copy system's `libgcc_s.so.1` to replace the old one:
 
 # How do I found the solution:
 
-Launch game in console (ensure Stream is already opend), and got following messages: (I replaced the real home path wth `MY_HOME_PATH`)
+Launch game in console (ensure Stream is already opened), and got following messages: (I replaced the real home path wth `MY_HOME_PATH`)
 
 	failed to dlopen MY_HOME_PATH/.local/share/Steam/steamapps/common/insurgency2/bin/engine.so error=MY_HOME_PATH/.steam/steam/steamapps/common/insurgency2/bin/libgcc_s.so.1: version `GCC_7.0.0' not found (required by /usr/lib32/libopenal.so.1)
 	failed to dlopen MY_HOME_PATH/.local/share/Steam/steamapps/common/insurgency2/bin/engine.so error=MY_HOME_PATH/.steam/steam/steamapps/common/insurgency2/bin/libgcc_s.so.1: version `GCC_7.0.0' not found (required by /usr/lib32/libopenal.so.1)
