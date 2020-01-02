@@ -5,4 +5,4 @@ published: true
 
 ![Teeworlds China Community photo](/assets/img/2020_cn_community.png)
 
-#Happy New Year!
+# Happy New Year!
