@@ -1,9 +1,10 @@
 ---
-title: NMRIH server setup (from official wiki)
+title: NMRIH server setup
 published:true
 ---
 
-(linK: https://wiki.nomoreroominhell.com/Dedicated_Server_Setup)
+From official wiki:
+(link: https://wiki.nomoreroominhell.com/Dedicated_Server_Setup)
 
 # Overview
 ----
