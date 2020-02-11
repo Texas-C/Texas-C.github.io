@@ -1,6 +1,6 @@
 ---
 title: NMRIH server setup
-published:true
+published: true
 ---
 
 From official wiki:
